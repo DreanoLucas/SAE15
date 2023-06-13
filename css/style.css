@@ -11,6 +11,7 @@ table {
    border-collapse: collapse;
  }
  
+<<<<<<< HEAD
  td, th {
    border: 1px solid black;
    padding: 10px;
@@ -48,3 +49,23 @@ table {
    text-decoration: underline;
    color: blue;
  }
+=======
+a:visited{ 
+color: blue; 
+} 
+
+
+@media (width < 700px) {
+   *{
+      text-align: center;
+      margin: 0 0 0 0;
+
+   }
+   table {
+     height: 100vh;
+     border-collapse: collapse;
+     font-weight: bold;
+     font-size: 2em;
+   }
+}
+>>>>>>> 72b25b497a558979cff629c34715249d19144c27
