@@ -1,0 +1,48 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 0%;
+    background-color: #5BA67B;
+}
+
+div{
+    text-align: center;
+}
+
+ul{
+display:inline-block;
+text-align: left;
+padding-left: 40%;
+}
+
+div.texte{
+    background-color:#367350;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding: 2%;
+}
+
+
+h1{
+    margin: 0%;
+}
+
+div.nom{
+ border-width:5px;
+ border-style:solid;
+ border-color: #011126;
+ border-radius: 20px;
+ padding-top: 2%;
+ padding-bottom: 2%;
+ margin: 2%;
+}
+
+h2{
+    background-color:#367350;
+    padding: 2%;
+}
+
+a:visited{ 
+    color: blue; 
+    } 
+
