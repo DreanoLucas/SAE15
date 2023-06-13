@@ -1,0 +1,2 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+5,Bobigny - Pablo Picasso,oui,gratuit,,oui,,oui,,non,A proximité du point de vente - information.,"48.90717445316718,2.4492666955791327",Toilette publique  RATP

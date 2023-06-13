@@ -1,0 +1,2 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+12,Concorde,non,gratuit,,oui,oui,,,oui,"En direction de la ligne 1, vers la sortie 2, rue de Rivoli.","48.866999231212986,2.32113887",Toilette publique  RATP

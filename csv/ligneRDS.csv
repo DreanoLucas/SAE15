@@ -1,0 +1,2 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+RDS,Villejuif - Louis Aragon,oui,gratuit,oui,,,,oui,oui,"Sortie 2, Maxime Gorki vers la gare routière.","48.78730304269838,2.3674101521293744",Toilette publique  RATP

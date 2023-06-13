@@ -1,0 +1,23 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+A,Charles de Gaulle - Etoile,oui,gratuit,,oui,oui,,,non,"Sortie avenue Carnot, après la ligne de valideurs en venant de l'extérieur de la gare.","48.8740658,2.2951493",Toilette publique  RATP
+A,La Defense (Grande Arche),oui,gratuit,,oui,,oui,,oui,"A proximité de la zone SNCF, à l'opposé de l'entrée du tramway T2.","48.891826754836515,2.237992043215619",Toilette publique  RATP
+A,Nation,oui,gratuit,,oui,oui,,,oui,"En allant des quais du RER vers les quais de la ligne 1, 2 et 6, en bas des escalators.","48.8484803444062,2.39676520957729",Toilette publique  RATP
+A,Charles de Gaulle - Etoile,oui,gratuit,,oui,oui,,,oui,"A proximité du point de vente - information situé sortie avenue des Champs-Elysées, après la ligne de valideurs","48.87346419088715,2.2963810880084012",Toilette publique  RATP
+A,Chatelet,oui,gratuit,,oui,,oui,,oui,A proximité des sorties en direction des lignes 7 et 11,"48.858291026403705,2.3483281842513337",Toilette publique  RATP
+A,Chatelet,oui,gratuit,,oui,oui,,,oui,"A proximité de la sortie 3, Forum - Porte Lescot, en face du comptoir d'info","48.858857284381365,2.347769856742684",Toilette publique  RATP
+A,Nanterre - Prefecture,oui,gratuit,,oui,oui,,,oui,A proximité du point de vente - information,"48.8971999,2.222709",Toilette publique  RATP
+A,Noisy-le-Grand - Mont d'Est,oui,gratuit,,oui,oui,,,oui,A proximité du point de vente - information.,"48.84078,2.54804",Toilette publique  RATP
+A,Noisy-le-Grand - Mont d'Est,oui,gratuit,,oui,,oui,,oui,Accès par la gare routière.,"48.84082,2.55154",Toilette publique  RATP
+A,Saint-Maur - Creteil,oui,gratuit,oui,,,,oui,oui,"A l'extérieur de la gare, côté autobus.","48.80641960896216,2.47204505094563",Toilette publique  RATP
+A,Val d'Europe,oui,gratuit,,oui,,oui,,oui,"En face du point de vente - information, à proximité de la ligne de valideurs.","48.85549704826123,2.7736084332189748",Toilette publique  RATP
+A,Neuilly -Plaisance,,,,,,,,,Dans la salle d'échange en face de la ligne de contrôle,"48.85361,2.51357",Toilette publique  RATP
+A,Vincennes,,,,,,,,,Dans la salle d'échange,"48.84731,2.43286",Toilette publique  RATP
+A,Gare de Lyon,oui,gratuit,,oui,oui,,,oui,"A proximité du haut de l'escalator menant vers la tête de quai, direction Paris.","48.84436,2.37291",Toilette publique  RATP
+A,Marne-la-Vallee - Chessy,oui,gratuit,,oui,oui,,,oui,Au milieu du quai central.,"48.86849697024026,2.7822597305629526",Toilette publique  RATP
+A,Nogent-sur-Marne,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.83510877417377,2.4716839161590887",Toilette publique  RATP
+A,Nanterre - Ville,oui,gratuit,,oui,oui,,,oui,Sur le quai en direction de Paris.,"48.8950462710121,2.1956095209931936",Toilette publique  RATP
+A,Saint-Germain-en-Laye,oui,gratuit,,oui,oui,,,oui,A proximité du palier haut de l'ascenseur desservant les voies 2 et 4.,"48.8979364,2.0948768",Toilette publique  RATP
+A,Auber,oui,gratuit,,oui,oui,,,oui,A proximité du point de vente - information.,"48.8731477,2.3295277",Toilette publique  RATP
+A,Chatelet,oui,gratuit,,oui,,oui,,oui,"En partant de la zone RER vers la place Carrée et la ligne 4, à proximité des escaliers mécaniques.","48.8622381,2.345496",Toilette publique  RATP
+A,Nanterre - Universite,oui,gratuit,,oui,,oui,,oui,"A l'extérieur, sur le parvis","48.901251906231444,2.21599944",Toilette publique  RATP
+A,Rueil-Malmaison,oui,gratuit,,oui,oui,,,oui,"A proximité de la ligne de valideurs, en direction des sorties.","48.88722206053287,2.170623204930391",Toilette publique  RATP

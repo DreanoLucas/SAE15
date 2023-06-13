@@ -1,0 +1,3 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+8,Créteil - Préfecture,,,,,,,,,Accès par le couloir – Espace Voyageur avant lignes de contrôles.,"48.77999,2.45996",Toilette publique  RATP
+8,Grands Boulevards,,,,,,,,,"Accès par la salle d'échange, Espace Voyageur avant lignes de contrôles","48.87133,2.34351",Toilette publique  RATP

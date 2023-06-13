@@ -1,0 +1,3 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+1,Champs-élysées - Clémenceau,,,,,,,,,"sortie Grand Palais, square Jean Perrin","48.86754,2.31331",Toilette publique  RATP
+1,Charles de Gaulle - Etoile,oui,gratuit,,oui,,oui,,non,"En entrant par l'accès 3, avenue Hoche, dans le couloir menant vers la sortie 2, avenue de Friedland.","48.87445277569274,2.2963258094953476",Toilette publique  RATP

@@ -1,0 +1,13 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+14,Madeleine,oui,gratuit,,oui,,oui,,oui,Sortie 1 dans la salle d'échange.,"48.869956563045214,2.3253476474582184",Toilette publique  RATP
+14,Bibliotheque Francois Mitterrand,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.82978526345046,2.3776037993133134",Toilette publique  RATP
+14,Cour Saint-Emilion,oui,gratuit,,oui,,oui,,oui,"Dans la salle d'échange, à proximité du point de vente - information","48.83346,2.38607",Toilette publique  RATP
+14,Saint Lazare,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.87552856932788,2.324120111297863",Toilette publique  RATP
+14,Porte de Clichy,,,,,,,,,Dans le couloir depuis la salle d'échanges niveau -2 proche accès Ligne13,"48.89467,2.31414",Toilette publique  RATP
+14,Mairie de Saint-Ouen,,,,,,,,,"Accès par la salle d'échanges niveau -2, proche accès quais Ligne13","48.91261,2.33439",Toilette publique  RATP
+14,Saint Ouen,,,,,,,,,Salle principale proche point de vente,"48.90385,2.32021",Toilette publique  RATP
+14,Pyramides,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.8656737,2.3344599",Toilette publique  RATP
+14,Pont Cardinet,,,,,,,,,Proche du point de vente,"48.88761,2.31417",Toilette publique  RATP
+14,Bercy,oui,gratuit,,oui,oui,,,oui,Dans le couloir en direction des quais ligne 6 ou direction quais ligne 14.,"48.84019224440348,2.3794772572660587",Toilette publique  RATP
+14,Gare de Lyon,oui,gratuit,,oui,,oui,,oui,En direction de la sortie 13.,"48.84391523960347,2.3728897698814633",Toilette publique  RATP
+14,Olympiades,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.8269104,2.3661972",Toilette publique  RATP

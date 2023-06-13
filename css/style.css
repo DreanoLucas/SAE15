@@ -1,0 +1,28 @@
+table tbody tr:nth-of-type(odd){ 
+     background-color: #5BA67B; 
+    text-align: center;  
+  } 
+ 
+ table tbody tr:nth-of-type(even) { 
+    background-color:#367350; 
+    text-align: center; 
+   } 
+ 
+table thead th{ 
+ background-color: #367350;  
+ }
+ 
+tbody tr, td, th {
+ border: 1px solid; 
+ } 
+  
+ table { 
+border-collapse: collapse; 
+border-style:solid; 
+border-color:black; 
+ width: 100% 
+ } 
+ 
+a:visited{ 
+color: blue; 
+} 

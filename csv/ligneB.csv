@@ -1,0 +1,13 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+B,Denfert-Rochereau,oui,gratuit,,oui,oui,,,non,"Sur le quai ligne B, en direction de Saint-Rémy-Lès-Chevreuse.","48.8332144,2.3333365",Toilette publique  RATP
+B,Robinson - fin de ligne,oui,gratuit,,oui,oui,,,oui,Sur le quai 1 Direction Paris au niveau de la tête des trains courts,"48.78036417660201,2.2816982237256243",Toilette publique  RATP
+B,Gentilly,oui,gratuit,,oui,oui,,,oui,Sur le quai direction Paris.,"48.8153713,2.3408362",Toilette publique  RATP
+B,Gif-sur-Yvette,oui,gratuit,,oui,,oui,,oui,Sur le quai direction Paris,"48.6981859,2.1367431",Toilette publique  RATP
+B,Laplace,oui,gratuit,oui,,,,oui,oui,"A l'extérieur de la gare, à proximité du point de vente - information.","48.80784404743202,2.3330228065226883",Toilette publique  RATP
+B,Croix de Berny,,,,,,,,,On y accède par le couloir à la limite de la Salle d'échange,"48.76262,2.30433",Toilette publique  RATP
+B,Antony,oui,gratuit,,oui,oui,,,oui,"Dans la salle d'échange, coté banlieue et point de vente - information","48.75482748503882,2.3008650705983067",Toilette publique  RATP
+B,Arcueil Cachan,oui,gratuit,oui,,,,oui,oui,"A l'extérieur de la gare, dans un bâtiment indépendant.","48.798366,2.327766",Toilette publique  RATP
+B,Bourg-la-Reine,oui,gratuit,,oui,oui,,,oui,"En milieu de quai central, direction Paris","48.78005093776892,2.3121626259597874",Toilette publique  RATP
+B,Cite Universitaire,oui,gratuit,,oui,,oui,,non,A proximité du point de vente - information.,"48.8205877,2.3390071",Toilette publique  RATP
+B,Massy - Palaiseau,oui,gratuit,oui,,,,oui,oui,"A l'extérieur du bâtiment gare, à proximité du point de vente - information, côté autobus.","48.725109,2.2606361",Toilette publique  RATP
+B,Saint-Remy-les-Chevreuse,oui,gratuit,oui,,,,oui,oui,"A l'extérieur de la gare, dans le prolongement de la gare.","48.70286868424979,2.070600214521146",Toilette publique  RATP

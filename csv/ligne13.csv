@@ -1,0 +1,3 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+13,Asnieres-Gennevilliers - Les Courtilles,oui,gratuit,,oui,oui,,,oui,A proximité du point de vente - information.,"48.93074305254229,2.283951123396349",Toilette publique  RATP
+13,Les Agnettes,oui,gratuit,,oui,,oui,,oui,A proximité du point de vente - information.,"48.92317699378374,2.28605910172606",Toilette publique  RATP

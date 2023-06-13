@@ -1,0 +1,2 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+4,Barbara,,,,,,,,,Dans le couloir. Il est accessible : Via les ascenseurs de la Salle d'échange qui mènent directement dans le couloir -Tête de quai puis Escalier Mécanique -Queue de quai puis Escalier Mécanique,"48.80963,2.31776",Toilette publique  RATP

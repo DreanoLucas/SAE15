@@ -1,0 +1,2 @@
+ligne,station,accessible_au_public,tarif_gratuit_payant,acces_passe_navigo_ou_ticket_t,acces_bouton_poussoir,en_zone_controlee,hors_zone_controlee_station,hors_zone_controlee_voie_publique,accessibilite_pmr,localisation,coord_geo,gestionnaire
+10,Cluny - La Sorbonne,oui,payant,oui,,,,,oui,"Sortie 2 boulevard St-Germain, à proximité du point de vente - information.","48.85079575570429,2.3450308883652258",Toilette publique  RATP
