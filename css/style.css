@@ -28,7 +28,7 @@ color: blue;
 } 
 
 
-@media screen and (max-width: 600px){
+@media (width < 700px) {
    *{
       text-align: center;
       margin: 0 0 0 0;
