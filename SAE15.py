@@ -165,7 +165,56 @@ def fixed(): #Permet de retirer les lignes vides dans les csv
 
 def generation_css():
     file=open("./css/style.css","w")
-    file.write("table tbody tr:nth-of-type(odd){ \n     background-color: #5BA67B; \n    text-align: center;  \n  } \n \n table tbody tr:nth-of-type(even) { \n    background-color:#367350; \n    text-align: center; \n   } \n \ntable thead th{ \n background-color: #367350;  \n }\n \ntbody tr, td, th {\n border: 1px solid; \n } \n  \n table { \nborder-collapse: collapse; \nborder-style:solid; \nborder-color:black; \n width: 100% \n } \n \na:visited{ \ncolor: blue; \n} \n")
+    file.write("""table {
+   margin: 20px auto;
+   border-collapse: collapse;
+   font-size: 18px;
+   font-family: sans-serif;
+   min-width: 800px;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+ }
+ 
+ table {
+   border-collapse: collapse;
+ }
+ 
+ td, th {
+   border: 1px solid black;
+   padding: 10px;
+   text-align: center;
+ }
+ 
+ td:hover {
+   background-color: #f5f5f5;
+   cursor: pointer;
+   transform: scale(1.1);
+   transition: all 0.3s ease-in-out;
+ }
+ 
+ th {
+   background-color: #4CAF50;
+   color: #fff;
+   font-weight: bold;
+ }
+ 
+ tr:hover {
+   background-color: #f5f5f5;
+ }
+ 
+ a {
+   display: block;
+   margin: 20px auto;
+   text-align: center;
+   text-decoration: none;
+   font-size: 20px;
+   color: #4CAF50;
+   font-weight: bold;
+ }
+ 
+ a:hover {
+   text-decoration: underline;
+   color: blue;
+ }""")
 
 creation_dossier()
 ListeLigne,NombreDeSanitaireParLigne = LigneCount()
