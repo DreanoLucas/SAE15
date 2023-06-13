@@ -1,17 +1,14 @@
 table {
    margin: 20px auto;
-   border-collapse: collapse;
    font-size: 18px;
    font-family: sans-serif;
    min-width: 800px;
    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+   border: 1px;
  }
  
- table {
-   border-collapse: collapse;
- }
+
  
-<<<<<<< HEAD
  td, th {
    border: 1px solid black;
    padding: 10px;
@@ -49,7 +46,7 @@ table {
    text-decoration: underline;
    color: blue;
  }
-=======
+
 a:visited{ 
 color: blue; 
 } 
@@ -68,4 +65,3 @@ color: blue;
      font-size: 2em;
    }
 }
->>>>>>> 72b25b497a558979cff629c34715249d19144c27
